@@ -1,0 +1,220 @@
+{
+    "ProductList": [
+        {
+            "ItemCode": "9012450",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012450.jpg_220x240.jpg",
+            "Price": 228,
+            "LinePrice": 298,
+            "Cpmc": "韩式系列/初心不负",
+            "Instro": " 韩式花束系列花艺师全新打造，卡罗拉玫瑰11枝、白底粉边洋桔梗5枝、大叶尤加利10枝",
+            "Sales": "7.2万"
+        },
+        {
+            "ItemCode": "9012452",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012452.jpg_220x240.jpg",
+            "Price": 296,
+            "LinePrice": 398,
+            "Cpmc": "韩式系列/一路向阳",
+            "Instro": "向日葵3枝、香槟玫瑰9枝、橙色多头玫5枝、黄色腊梅5枝、大叶尤加利5枝",
+            "Sales": "6.6万"
+        },
+        {
+            "ItemCode": "9012177",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012177.jpg_220x240.jpg",
+            "Price": 568,
+            "LinePrice": 869,
+            "Cpmc": "不变的承诺",
+            "Instro": "99枝红玫瑰",
+            "Sales": "6.6万"
+        },
+        {
+            "ItemCode": "9010966",
+            "img": "https://img01.hua.com/uploadpic/newpic/9010966.jpg_220x240.jpg",
+            "Price": 239,
+            "LinePrice": 315,
+            "Cpmc": "一往情深",
+            "Instro": "精品玫瑰礼盒:19枝红玫瑰，勿忘我0.1扎",
+            "Sales": "12.7万"
+        },
+        {
+            "ItemCode": "9012471",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012471.jpg_220x240.jpg",
+            "Price": 138,
+            "LinePrice": 189,
+            "Cpmc": "你是唯一",
+            "Instro": "卡罗拉红玫瑰11枝",
+            "Sales": "4.5万"
+        },
+        {
+            "ItemCode": "9012243",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012243.jpg_220x240.jpg",
+            "Price": 196,
+            "LinePrice": 255,
+            "Cpmc": "恋恋情深",
+            "Instro": "11枝香槟玫瑰，白色多头百合2枝",
+            "Sales": "7.9万"
+        },
+        {
+            "ItemCode": "9012009",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012009.jpg_220x240.jpg",
+            "Price": 298,
+            "LinePrice": 382,
+            "Cpmc": "忘情巴黎",
+            "Instro": "33枝红玫瑰",
+            "Sales": "7.1万"
+        },
+        {
+            "ItemCode": "9012455",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012455.jpg_220x240.jpg",
+            "Price": 369,
+            "LinePrice": 469,
+            "Cpmc": "韩式系列/亲爱的你",
+            "Instro": "粉佳人玫瑰16枝、白和粉色洋桔梗各5枝、尤加利10枝、浅紫色小菊3枝、深粉色绣球1枝",
+            "Sales": "1.7万"
+        },
+        {
+            "ItemCode": "9012451",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012451.jpg_220x240.jpg",
+            "Price": 216,
+            "LinePrice": 298,
+            "Cpmc": "韩式系列/公主的假日",
+            "Instro": "戴安娜玫瑰11枝、白色洋桔梗5枝、大叶尤加利10枝",
+            "Sales": "4996"
+        },
+        {
+            "ItemCode": "9010855",
+            "img": "https://img01.hua.com/uploadpic/newpic/9010855.jpg_220x240.jpg",
+            "Price": 568,
+            "LinePrice": 869,
+            "Cpmc": "用心爱你",
+            "Instro": "99枝：33枝戴安娜＋66枝红玫瑰",
+            "Sales": "3.5万"
+        },
+        {
+            "ItemCode": "9012332",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012332.jpg_220x240.jpg",
+            "Price": 245,
+            "LinePrice": 306,
+            "Cpmc": "留住好时光",
+            "Instro": "粉绣球1枝，粉雪山玫瑰6枝",
+            "Sales": "1.2万"
+        },
+        {
+            "ItemCode": "9010969",
+            "img": "https://img01.hua.com/uploadpic/newpic/9010969.jpg_220x240.jpg",
+            "Price": 249,
+            "LinePrice": 329,
+            "Cpmc": "你最珍贵",
+            "Instro": "精品玫瑰礼盒:香槟玫瑰19枝，勿忘我适量",
+            "Sales": "6.0万"
+        },
+        {
+            "ItemCode": "9012154",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012154.jpg_220x240.jpg",
+            "Price": 369,
+            "LinePrice": 485,
+            "Cpmc": "甜美公主",
+            "Instro": "白玫瑰22枝，粉佳人粉玫瑰14枝，粉色桔梗5枝",
+            "Sales": "2.50万"
+        },
+        {
+            "ItemCode": "9012463",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012463.jpg_220x240.jpg",
+            "Price": 339,
+            "LinePrice": 459,
+            "Cpmc": "韩式系列/青春有你",
+            "Instro": "苏醒玫瑰16枝、白色洋桔梗5枝、浅蓝绣球1枝",
+            "Sales": "460"
+        },
+        {
+            "ItemCode": "9012481",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012481.jpg_220x240.jpg",
+            "Price": 63,
+            "LinePrice": 899,
+            "Cpmc": "爱莎公主99",
+            "Instro": "艾莎玫瑰99枝",
+            "Sales": "452"
+        },
+        {
+            "ItemCode": "9012474",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012474.jpg_220x240.jpg",
+            "Price": 239,
+            "LinePrice": 329,
+            "Cpmc": "韩式系列/慢慢喜欢你",
+            "Instro": "艾莎玫瑰16枝",
+            "Sales": "1903"
+        },
+        {
+            "ItemCode": "9012089",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012089.jpg_220x240.jpg",
+            "Price": 409,
+            "LinePrice": 479,
+            "Cpmc": "爱在心头",
+            "Instro": "玫瑰50枝：戴安娜粉玫瑰19枝，红玫瑰31枝",
+            "Sales": "2.12万"
+        },
+        {
+            "ItemCode": "9012125",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012125.jpg_220x240.jpg",
+            "Price": 178,
+            "LinePrice": 242,
+            "Cpmc": "缪斯女神",
+            "Instro": "红玫瑰16枝，红豆5枝，粉色桔梗1枝，银叶菊2枝",
+            "Sales": "3.44万"
+        },
+        {
+            "ItemCode": "9012175",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012175.jpg_220x240.jpg",
+            "Price": 238,
+            "LinePrice": 305,
+            "Cpmc": "月光女神",
+            "Instro": "白玫瑰11枝，绿色桔梗5枝，小菊3枝，白色石竹梅4枝",
+            "Sales": "4.95万"
+        },
+        {
+            "ItemCode": "9010947",
+            "img": "https://img01.hua.com/uploadpic/newpic/9010947.jpg_220x240.jpg",
+            "Price": 190,
+            "LinePrice": 265,
+            "Cpmc": "真爱如初",
+            "Instro": "雪山玫瑰11枝、深紫色勿忘我0.3扎",
+            "Sales": "6.63万"
+        },
+        {
+            "ItemCode": "9012462",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012462.jpg_220x240.jpg",
+            "Price": 286,
+            "LinePrice": 375,
+            "Cpmc": "韩式花篮/平淡岁月",
+            "Instro": "苏醒玫瑰13枝，蓝紫色绣球1枝，香槟洋桔梗5枝",
+            "Sales": "1047"
+        },
+        {
+            "ItemCode": "9012473",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012473.jpg_220x240.jpg",
+            "Price": 298,
+            "LinePrice": 398,
+            "Cpmc": "韩式系列/你笑起来真好看",
+            "Instro": "艾莎玫瑰19枝",
+            "Sales": "789"
+        },
+        {
+            "ItemCode": "9012437",
+            "img": "https://img01.hua.com/uploadpic/newpic/9012437.jpg_220x240.jpg",
+            "Price": 219,
+            "LinePrice": 282,
+            "Cpmc": "粉雪佳人",
+            "Instro": "戴安娜粉玫瑰11枝、白色香水百合2枝、白色洋桔梗5枝",
+            "Sales": "2842"
+        },
+        {
+            "ItemCode": "9010766",
+            "img": "https://img01.hua.com/uploadpic/newpic/9010766.jpg_220x240.jpg",
+            "Price": 279,
+            "LinePrice": 368,
+            "Cpmc": "圆满",
+            "Instro": "粉百合2枝、红玫瑰9枝、红色康乃馨15枝",
+            "Sales": "8032"
+        }
+    ]
+}
